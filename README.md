@@ -1,2 +1,2 @@
-# blockchain_nd_starNotary
-Star notary project for Udacity blockchain nanodegree
+# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter
+**PROJECT: Decentralized Star Notary Service Project**
